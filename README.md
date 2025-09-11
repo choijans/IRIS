@@ -1,8 +1,4 @@
-Here's a professional and comprehensive `README.md` file for your **IRIS (Integrated Remote Infrastructure System)** capstone project:
 
----
-
-````markdown
 # IRIS – Integrated Remote Infrastructure System
 
 ## Overview
