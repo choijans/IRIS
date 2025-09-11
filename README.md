@@ -120,8 +120,8 @@ Ensures appropriate access based on user roles.
    ```bash
    git clone https://github.com/your-username/IRIS.git
    cd IRIS
-````
 
+   ```
 2. Install dependencies:
 
    ```bash
