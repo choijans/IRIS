@@ -47,3 +47,10 @@
 <img width="130" height="632" alt="Basket Prototype Edit Payment Details" src="https://github.com/user-attachments/assets/30dd8e01-6b02-4b81-b486-904db420ac65" />
 <img width="130" height="632" alt="Basket Prototype Delete" src="https://github.com/user-attachments/assets/896247b0-4cc7-4289-861d-639102c4a23a" />
 
+### Order History and Order Status
+
+<img width="130" height="632" alt="Orders History (3)" src="https://github.com/user-attachments/assets/c3a94ffd-910a-428a-9fcc-17b559700fb3" />
+<img width="130" height="632" alt="View Order Status" src="https://github.com/user-attachments/assets/02f63718-a32d-4035-a889-a7d74a66a2ae" />
+<img width="130" height="632" alt="View Order Status (1)" src="https://github.com/user-attachments/assets/20a02179-3d1f-4dcd-a985-def2dbf0fa8c" />
+<img width="130" height="632" alt="View Order Status (2)" src="https://github.com/user-attachments/assets/eed8c998-5a23-4192-9387-73bf1b71b1a7" />
+
