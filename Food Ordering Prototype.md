@@ -40,3 +40,10 @@
 <img width="130" height="632" alt="Stores Prototype (1)" src="https://github.com/user-attachments/assets/afdecdad-805c-414a-9733-c0a1424723fb" />
 <img width="130" height="632" alt="Food Prototype (1)" src="https://github.com/user-attachments/assets/e2406d52-d3be-418c-b250-8bbb2a378cf4" />
 <img width="130" height="632" alt="Food Info Prototype (1)" src="https://github.com/user-attachments/assets/d82974df-5317-4abd-bb9c-73479848dd73" />
+
+### Basket
+
+<img width="130" height="632" alt="Basket Prototype (4)" src="https://github.com/user-attachments/assets/0b0c8439-0b83-4e63-8246-c0c31ee5f185" />
+<img width="130" height="632" alt="Basket Prototype Edit Payment Details" src="https://github.com/user-attachments/assets/30dd8e01-6b02-4b81-b486-904db420ac65" />
+<img width="130" height="632" alt="Basket Prototype Delete" src="https://github.com/user-attachments/assets/896247b0-4cc7-4289-861d-639102c4a23a" />
+
