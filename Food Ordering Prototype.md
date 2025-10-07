@@ -44,7 +44,7 @@
 ### Basket
 
 <img width="130" height="632" alt="Basket Prototype (4)" src="https://github.com/user-attachments/assets/0b0c8439-0b83-4e63-8246-c0c31ee5f185" />
-<img width="130" height="632" alt="Basket Prototype Edit Payment Details" src="https://github.com/user-attachments/assets/30dd8e01-6b02-4b81-b486-904db420ac65" />
+<img width="130" height="632" alt="Basket Prototype Edit Payment Details (1)" src="https://github.com/user-attachments/assets/f95ef598-fb0a-48fb-a6d6-d30592e8d0e3" />
 <img width="130" height="632" alt="Basket Prototype Delete" src="https://github.com/user-attachments/assets/896247b0-4cc7-4289-861d-639102c4a23a" />
 
 ### Order History and Order Status
