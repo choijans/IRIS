@@ -54,3 +54,9 @@
 <img width="130" height="632" alt="View Order Status (1)" src="https://github.com/user-attachments/assets/20a02179-3d1f-4dcd-a985-def2dbf0fa8c" />
 <img width="130" height="632" alt="View Order Status (2)" src="https://github.com/user-attachments/assets/eed8c998-5a23-4192-9387-73bf1b71b1a7" />
 
+## Successful and Unsuccessful Payments
+
+<img width="130" height="632" alt="Basket Prototype (5)" src="https://github.com/user-attachments/assets/49159017-119d-4fe9-8496-57abc7d03c33" />
+<img width="130" height="632" alt="Basket Prototype Success" src="https://github.com/user-attachments/assets/5d427bcd-0194-4d55-bdad-deed6a26336c" />
+<img width="130" height="632" alt="Basket Prototype Failed" src="https://github.com/user-attachments/assets/fc9d3182-1509-4b01-b9b1-3d4785562159" />
+
