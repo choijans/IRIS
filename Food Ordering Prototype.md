@@ -28,3 +28,10 @@
 
 ## Modified Prototype
 
+### Sign Up and Log In
+
+<img width="130" height="632" alt="Registration Prototype (3)" src="https://github.com/user-attachments/assets/bc640a22-303e-4ca0-b637-526ad3f02d9d" />
+<img width="130" height="632" alt="Registration Prototype (4)" src="https://github.com/user-attachments/assets/b14b645a-6d89-4dc6-87f5-c69095ca5b1f" />
+<img width="130" height="632" alt="Login Prototype" src="https://github.com/user-attachments/assets/b3620f45-93c4-4289-bc6b-4716f4112b53" />
+<img width="130" height="632" alt="Login Prototype (1)" src="https://github.com/user-attachments/assets/fa01d354-c615-4c00-96df-b25e1127af86" />
+
