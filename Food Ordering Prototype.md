@@ -1,5 +1,5 @@
 
-# IRIS – Integrated Remote Infrastructure System
+# Carolinian Food Options: A Food Ordering Prototype
 
 ## Wireframe
 
