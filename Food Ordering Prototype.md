@@ -35,3 +35,8 @@
 <img width="130" height="632" alt="Login Prototype" src="https://github.com/user-attachments/assets/b3620f45-93c4-4289-bc6b-4716f4112b53" />
 <img width="130" height="632" alt="Login Prototype (1)" src="https://github.com/user-attachments/assets/fa01d354-c615-4c00-96df-b25e1127af86" />
 
+### Stores and Their Menu
+
+<img width="130" height="632" alt="Stores Prototype (1)" src="https://github.com/user-attachments/assets/afdecdad-805c-414a-9733-c0a1424723fb" />
+<img width="130" height="632" alt="Food Prototype (1)" src="https://github.com/user-attachments/assets/e2406d52-d3be-418c-b250-8bbb2a378cf4" />
+<img width="130" height="632" alt="Food Info Prototype (1)" src="https://github.com/user-attachments/assets/d82974df-5317-4abd-bb9c-73479848dd73" />
