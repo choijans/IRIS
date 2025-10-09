@@ -37,10 +37,12 @@
 ### Log In and Invalid Log In
 <img width="500" height="356" alt="Login Page (1)" src="https://github.com/user-attachments/assets/f1fdaeee-e15a-4b07-b0bb-57498bff8a53" />
 <img width="500" height="356" alt="Login Page (2)" src="https://github.com/user-attachments/assets/189f2c68-178c-430d-8750-a01b02c23d35" />
+Login is more consistent. The form box is now white instead of red, as the old prototype had too much red already. A password feature has also been added, as well as errors that are now more specific.
 
 ### Monitoring Page
 <img width="500" height="356" alt="Monitoring Page (1)" src="https://github.com/user-attachments/assets/e8486779-f876-4560-9546-f2ee24ff000d" />
 <img width="500" height="356" alt="Tiled-View Monitoring (3)" src="https://github.com/user-attachments/assets/b37b77b0-0a38-4cd3-9fa2-d736f8b6cb3f" />
+New icons have been added. The sidebar may expand upon hover for less clutter.
 
 ### View Screen and Its Details
 <img width="500" height="356" alt="View Screen (1)" src="https://github.com/user-attachments/assets/f05eca39-0927-4246-945a-7a65d6b7cec9" />
@@ -48,10 +50,12 @@
 <img width="500" height="356" alt="View Screen - View details (2)" src="https://github.com/user-attachments/assets/08c86348-f7e7-4891-b96f-bd59eb0f1fdb" />
 <img width="500" height="356" alt="View Screen - View details (3)" src="https://github.com/user-attachments/assets/1bb6d3e8-ff3c-42bc-89fd-bb38591f5d41" />
 <img width="500" height="356" alt="View Screen - View details (4)" src="https://github.com/user-attachments/assets/c05bdcfd-aa3c-413d-bb29-416b4744ef70" />
+The buttons are now consistent; they do not differ much in shape and size. A confirmation prompt has been added when shutting down, locking, or controlling a PC. 
 
 ### Dashboard and Software Management Deploy
 <img width="500" height="356" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/6f1d4afa-69d8-4195-aef6-947a331c4658" />
 <img width="500" height="356" alt="Software Management Deploy (1)" src="https://github.com/user-attachments/assets/c2cfb2aa-6196-43b4-805a-f4d3f579e117" />
+The Dashboard page shows the expanded version of the sidebar.
 
 ### Policy Enforcement View and Edit
 <img width="500" height="356" alt="Policy Enforcement View (1)" src="https://github.com/user-attachments/assets/3b32530b-b169-4b82-8df6-337d11d6aaf5" />
